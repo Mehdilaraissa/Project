@@ -1,0 +1,9 @@
+two difference interface user and admin /admin (some issues with roles )
+if u want to create or manage any of the entities you can find a menu of different action that the only admin can do , 
+To creat a product you should in the first create a Brand and choose a categorie specific to that brand and you can then create
+your product
+a gesture of stock where u can valide the real stock and  a gesture of localisation if the company have a field in multiple contry if it"s
+not the case we can manage it directly 
+for the user interface he can shoose any of items and saves in the card , and poursuit the step including a gesture of payement after that 
+the admin receive a new Order where he can change the status of the order 
+  
